@@ -1,0 +1,1 @@
+aws s3 cp CAVideos.csv s3://breta-you-tube-data-pipeline-bronze/youtube/raw_statistics/region=ca/
